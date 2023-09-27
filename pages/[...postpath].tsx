@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://loseweightwithfood.recipes/` + encodeURI(path as string)
+					`https://ea5aabw8nvo5vjsmh4phq-q49g.hop.clickbank.net/`
 				}`,
 			},
 		};
